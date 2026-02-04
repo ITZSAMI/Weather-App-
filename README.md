@@ -1,0 +1,1 @@
+A simple desktop weather application built with Python and PyQt5 that allows users to check the current weather of any city in the world. The app fetches real-time data from the OpenWeatherMap API and displays the temperature, weather description, and a matching emoji for quick visual feedback.
