@@ -1,4 +1,7 @@
-## Test it out: 
+## Download
+The macOS (Apple Silicon) build is available here:
+[Download Weather App v1.0](https://github.com/ITZSAMI/Weather-App-/releases/tag/v1.0)
+
 # Desktop Weather App (Python + PyQt5)
 
 A lightweight desktop weather application built with Python and PyQt5.
